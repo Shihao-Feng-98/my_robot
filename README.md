@@ -19,7 +19,6 @@ Mass: ≈ 5kg
 }
 ```
 
-![](https://github.com/Shihao-Feng-98/my_robot/blob/main/fig_prototype1_leg.jpg)
 ![](https://github.com/Shihao-Feng-98/my_robot/blob/main/fig_prototype1.jpg)
 
 ## The second version prototype
