@@ -35,7 +35,23 @@ Actuator: Dynamixel XM-430-W210 servo motor
 
 Mass: ≈ 2kg
 
-Submitted to MMT
+@article{gu2022overconstrained,
+
+  title={Overconstrained coaxial design of robotic legs with omni-directional locomotion},
+  
+  author={Gu, Yuping and Feng, Shihao and Guo, Yuqin and Wan, Fang and Dai, Jian S and Pan, Jia and Song, Chaoyang},
+  
+  journal={Mechanism and Machine Theory},
+  
+  volume={176},
+  
+  pages={105018},
+  
+  year={2022},
+  
+  publisher={Elsevier}
+  
+}
 
 ![](https://github.com/Shihao-Feng-98/my_robot/blob/main/fig_prototype2.jpg)
 
