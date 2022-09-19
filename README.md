@@ -8,6 +8,7 @@ Actuator: TMotor MN5212 + belt transmission + ODrive + AS5047D
 
 Mass: ≈ 5kg
 
+```
 @inproceedings{feng2021overconstrained,
 
   title={An overconstrained robotic leg with coaxial quasi-direct drives for omni-directional ground mobility},
@@ -23,6 +24,7 @@ Mass: ≈ 5kg
   organization={IEEE}
   
 }
+```
 
 ![](https://github.com/Shihao-Feng-98/my_robot/blob/main/fig_prototype1_leg.jpg)
 ![](https://github.com/Shihao-Feng-98/my_robot/blob/main/fig_prototype1.jpg)
@@ -35,6 +37,7 @@ Actuator: Dynamixel XM-430-W210 servo motor
 
 Mass: ≈ 2kg
 
+```
 @article{gu2022overconstrained,
 
   title={Overconstrained coaxial design of robotic legs with omni-directional locomotion},
@@ -52,6 +55,7 @@ Mass: ≈ 2kg
   publisher={Elsevier}
   
 }
+```
 
 ![](https://github.com/Shihao-Feng-98/my_robot/blob/main/fig_prototype2.jpg)
 
