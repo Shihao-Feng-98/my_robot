@@ -8,21 +8,14 @@ Actuator: TMotor MN5212 + belt transmission + ODrive + AS5047D
 
 Mass: ≈ 5kg
 
-```
+```latex
 @inproceedings{feng2021overconstrained,
-
   title={An overconstrained robotic leg with coaxial quasi-direct drives for omni-directional ground mobility},
-  
   author={Feng, Shihao and Gu, Yuping and Guo, Weijie and Guo, Yuqin and Wan, Fang and Pan, Jia and Song, Chaoyang},
-  
   booktitle={2021 IEEE International Conference on Robotics and Automation (ICRA)},
-  
   pages={11477--11484},
-  
   year={2021},
-  
   organization={IEEE}
-  
 }
 ```
 
@@ -39,21 +32,13 @@ Mass: ≈ 2kg
 
 ```
 @article{gu2022overconstrained,
-
   title={Overconstrained coaxial design of robotic legs with omni-directional locomotion},
-  
   author={Gu, Yuping and Feng, Shihao and Guo, Yuqin and Wan, Fang and Dai, Jian S and Pan, Jia and Song, Chaoyang},
-  
   journal={Mechanism and Machine Theory},
-  
   volume={176},
-  
   pages={105018},
-  
   year={2022},
-  
   publisher={Elsevier}
-  
 }
 ```
 
